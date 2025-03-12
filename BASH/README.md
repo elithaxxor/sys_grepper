@@ -1,4 +1,3 @@
-Sure thing, Adel! Here's a well-organized and visually appealing `README.md` file for your script:
 
 ```markdown
 # 🎉 System Information Collector 📋
